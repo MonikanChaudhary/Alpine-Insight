@@ -124,7 +124,7 @@ The dashboard enables users to investigate questions such as:
 - How does resort infrastructure vary between individual destinations?
 
 ## 6. Screenshots/ Demos
-Example: https://github.com/MonikanChaudhary/Alpine-Insight/blob/main/Overview%20of%20alpine%20insights.png
+Example: ![Dashboard Preview].(https://github.com/MonikanChaudhary/Alpine-Insight/blob/main/Overview%20of%20alpine%20insights.png)
 
 
 ---
